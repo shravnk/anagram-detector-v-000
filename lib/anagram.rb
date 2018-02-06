@@ -2,7 +2,7 @@
 
 class Anagram
   @input = ""
-  
+
   def initialize(input)
     @input =  input
   end
